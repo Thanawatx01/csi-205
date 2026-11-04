@@ -1,0 +1,15 @@
+{
+  "theme": "default",
+  "aliases": {
+    "@": "."
+  },
+  "components": {
+    "path": "components/tailgrids"
+  },
+  "utils": {
+    "path": "lib/utils.ts"
+  },
+  "css": {
+    "path": "app/tailgrids.css"
+  }
+}
